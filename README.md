@@ -3,7 +3,7 @@
 ## Introduction
 This repository holds the pytorch implementation of the original models described in the paper
 
-Sharan Mourya, Sai Dhiraj Amuru, "A Spatially Separable Attention Mechanism For Massive MIMO CSI Feedback", https://arxiv.org/abs/2208.03369
+[Sharan Mourya, Sai Dhiraj Amuru, "A Spatially Separable Attention Mechanism For Massive MIMO CSI Feedback"](https://arxiv.org/abs/2208.03369)
 
 ## Requirements
 - Python >= 3.7
