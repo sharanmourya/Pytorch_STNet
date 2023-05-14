@@ -1,7 +1,7 @@
 # Pytorch code for "A Spatially Separable Attention Mechanism For Massive MIMO CSI Feedback"
 (c) Sharan Mourya, email: sharanmourya7@gmail.com
 ## Introduction
-This repository holds the pytorch implementaion of the original models described in the paper
+This repository holds the pytorch implementation of the original models described in the paper
 
 Sharan Mourya, Sai Dhiraj Amuru, "A Spatially Separable Attention Mechanism For Massive MIMO CSI Feedback"
 
